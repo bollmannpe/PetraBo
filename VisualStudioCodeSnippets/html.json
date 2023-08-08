@@ -1,0 +1,9 @@
+{
+    "HTML boilerplate": {
+      "prefix": "!!",
+      "body": [
+        "<!DOCTYPE html>\r\n<html lang=\"de\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n  <meta name=\"description\" content=\"\">\r\n  <link rel=\"stylesheet\" type=\"text\/css\" href=\"styles.css\">\r\n <title>Document<\/title>\r\n<\/head>\r\n<body>\r\n  <header>\r\n  <\/header>\r\n  <main>\r\n    <article>\r\n    <\/article>\r\n    <aside>\r\n    <\/aside>\r\n  <\/main>\r\n  <footer>\r\n  <\/footer>\r\n  <script src=\"scripts.js\"><\/script>\r\n<\/body>\r\n<\/html>"
+      ],
+      "description": "HTML boilerplate with custom tags"
+    }
+  }
